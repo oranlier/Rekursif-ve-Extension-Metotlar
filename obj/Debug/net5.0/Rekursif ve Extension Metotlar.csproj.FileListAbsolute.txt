@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\bin\Debug\net5.0\Rekursif ve Extension Metotlar.exe
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\bin\Debug\net5.0\Rekursif ve Extension Metotlar.deps.json
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\bin\Debug\net5.0\Rekursif ve Extension Metotlar.runtimeconfig.json
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\bin\Debug\net5.0\Rekursif ve Extension Metotlar.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\bin\Debug\net5.0\Rekursif ve Extension Metotlar.dll
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\bin\Debug\net5.0\ref\Rekursif ve Extension Metotlar.dll
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\bin\Debug\net5.0\Rekursif ve Extension Metotlar.pdb
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.dll
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\ref\Rekursif ve Extension Metotlar.dll
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.pdb
+C:\Users\brk\Documents\patika\Rekursif ve Extension Metotlar\obj\Debug\net5.0\Rekursif ve Extension Metotlar.genruntimeconfig.cache
